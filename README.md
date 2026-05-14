@@ -1,6 +1,4 @@
-[<img src="https://www.codewars.com/users/gabrielsiedler/badges/micro" height="28px">](https://www.codewars.com/users/gabrielsiedler)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-100%25-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsiedler/)](https://www.linkedin.com/in/gabrielsiedler/)
+I like working across the entire stack -
+from pixel-perfect frontend experiences to low-level multi-threaded processing pipelines.
 
-![gabrielsiedler](https://github-readme-stats.vercel.app/api?username=gabrielsiedler&count_private=true)
-
-![gabrielsiedler](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsiedler&count_private=true&layout=compact&langs_count=8&hide=html,css,php,xml,handlebars)
+I enjoy building systems that are difficult to build.
